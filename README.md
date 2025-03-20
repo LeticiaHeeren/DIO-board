@@ -1,5 +1,5 @@
 # Desafio Dio - Board - Gerenciador de Tarefas
-O Dio-Board é um sistema de gerenciamento de tarefas (Kanban) desenvolvido em Java, com funcionalidades para criar, mover, bloquear e cancelar cards em um board.
+O DIO-board é um sistema de gerenciamento de tarefas (Kanban) desenvolvido em Java, com funcionalidades para criar, mover, bloquear e cancelar cards em um board.
 
 # Novas Funcionalidades Adicionadas
 **1. Histórico de Movimentação de Cards**
